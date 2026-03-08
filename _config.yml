@@ -14,11 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: David Gouveia
-email: admin@david-gouveia.com
 description: ""
-baseurl: "" # the subpath of your site, e.g. /blog
-url: http://www.david-gouveia.com # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: davidluzgouveia
+baseurl: "/xna" # the subpath of your site, e.g. /blog
+url: https://davidluzgouveia.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  davidluzgouveia
 
 # Build settings
